@@ -1,0 +1,196 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1180 540" role="img" aria-label="Pink love heart tree">
+  <defs>
+    <radialGradient id="trunkGlow" cx="30%" cy="35%" r="80%">
+      <stop offset="0" stop-color="#6b2b20"/>
+      <stop offset="0.58" stop-color="#35100d"/>
+      <stop offset="1" stop-color="#1b0706"/>
+    </radialGradient>
+    <radialGradient id="heartRed" cx="35%" cy="28%" r="70%">
+      <stop offset="0" stop-color="#ff7b70"/>
+      <stop offset="0.38" stop-color="#ff221f"/>
+      <stop offset="1" stop-color="#bd000c"/>
+    </radialGradient>
+    <radialGradient id="heartPink" cx="35%" cy="25%" r="75%">
+      <stop offset="0" stop-color="#fff0fb"/>
+      <stop offset="0.42" stop-color="#ff9be3"/>
+      <stop offset="1" stop-color="#ff4fac"/>
+    </radialGradient>
+    <radialGradient id="heartPeach" cx="34%" cy="25%" r="75%">
+      <stop offset="0" stop-color="#ffe6aa"/>
+      <stop offset="0.45" stop-color="#ffaf54"/>
+      <stop offset="1" stop-color="#f15d32"/>
+    </radialGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="170%">
+      <feDropShadow dx="0" dy="9" stdDeviation="8" flood-color="#8e1a31" flood-opacity="0.18"/>
+    </filter>
+    <path id="heart" d="M0 -10c-9-15-34-9-34 10 0 21 31 36 34 38 4-3 34-21 32-41-3-19-26-20-32-7z"/>
+  </defs>
+
+  <g filter="url(#shadow)">
+    <g fill="none" stroke="url(#trunkGlow)" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M214 500c10-92 12-164 2-222-7-44 6-80 37-110" stroke-width="57"/>
+      <path d="M220 338c-45-52-98-72-165-64" stroke-width="29"/>
+      <path d="M226 306c48-41 102-60 163-52" stroke-width="31"/>
+      <path d="M242 242c-20-60-12-110 27-149" stroke-width="20"/>
+      <path d="M255 247c35-55 75-89 121-102" stroke-width="18"/>
+      <path d="M198 274c-47-28-91-59-132-95" stroke-width="17"/>
+      <path d="M196 219c-30-40-44-79-42-118" stroke-width="12"/>
+      <path d="M241 207c-1-46 13-85 43-116" stroke-width="13"/>
+      <path d="M272 226c38-23 70-56 95-97" stroke-width="13"/>
+      <path d="M309 261c40-8 82 1 126 27" stroke-width="13"/>
+      <path d="M171 318c-39 23-79 30-121 22" stroke-width="13"/>
+      <path d="M145 264c-47-3-86-15-118-35" stroke-width="11"/>
+      <path d="M325 219c30-18 54-43 72-74" stroke-width="10"/>
+      <path d="M168 199c-19-31-29-63-30-96" stroke-width="9"/>
+    </g>
+  </g>
+
+  <ellipse cx="215" cy="510" rx="82" ry="14" fill="#e87da0" opacity="0.18"/>
+
+  <g id="tree-hearts" filter="url(#shadow)">
+    <use href="#heart" transform="translate(37 250) rotate(15) scale(.24)" fill="url(#heartRed)"/>
+    <use href="#heart" transform="translate(64 123) rotate(-20) scale(.22)" fill="url(#heartRed)"/>
+    <use href="#heart" transform="translate(52 219) rotate(-18) scale(.38)" fill="url(#heartPink)"/>
+    <use href="#heart" transform="translate(76 303) rotate(18) scale(.5)" fill="url(#heartPeach)"/>
+    <use href="#heart" transform="translate(91 165) rotate(-30) scale(.44)" fill="url(#heartRed)"/>
+    <use href="#heart" transform="translate(98 96) rotate(28) scale(.18)" fill="url(#heartRed)"/>
+    <use href="#heart" transform="translate(118 252) rotate(20) scale(.62)" fill="url(#heartRed)"/>
+    <use href="#heart" transform="translate(136 112) rotate(-14) scale(.38)" fill="url(#heartRed)"/>
+    <use href="#heart" transform="translate(145 64) rotate(12) scale(.17)" fill="url(#heartRed)"/>
+    <use href="#heart" transform="translate(154 191) rotate(10) scale(.7)" fill="url(#heartRed)"/>
+    <use href="#heart" transform="translate(165 236) rotate(-26) scale(.28)" fill="url(#heartPink)"/>
+    <use href="#heart" transform="translate(171 342) rotate(-8) scale(.52)" fill="url(#heartPink)"/>
+    <use href="#heart" transform="translate(188 76) rotate(17) scale(.34)" fill="url(#heartRed)"/>
+    <use href="#heart" transform="translate(194 120) rotate(-6) scale(.22)" fill="url(#heartRed)"/>
+    <use href="#heart" transform="translate(201 153) rotate(-18) scale(.58)" fill="url(#heartRed)"/>
+    <use href="#heart" transform="translate(214 263) rotate(8) scale(.86)" fill="url(#heartRed)"/>
+    <use href="#heart" transform="translate(224 207) rotate(30) scale(.27)" fill="url(#heartPeach)"/>
+    <use href="#heart" transform="translate(237 92) rotate(-8) scale(.46)" fill="url(#heartRed)"/>
+    <use href="#heart" transform="translate(243 44) rotate(17) scale(.2)" fill="url(#heartRed)"/>
+    <use href="#heart" transform="translate(250 177) rotate(21) scale(.66)" fill="url(#heartRed)"/>
+    <use href="#heart" transform="translate(263 238) rotate(-14) scale(.32)" fill="url(#heartRed)"/>
+    <use href="#heart" transform="translate(274 303) rotate(-18) scale(.55)" fill="url(#heartPeach)"/>
+    <use href="#heart" transform="translate(289 129) rotate(8) scale(.48)" fill="url(#heartRed)"/>
+    <use href="#heart" transform="translate(300 76) rotate(-24) scale(.21)" fill="url(#heartRed)"/>
+    <use href="#heart" transform="translate(306 220) rotate(-18) scale(.75)" fill="url(#heartRed)"/>
+    <use href="#heart" transform="translate(322 166) rotate(4) scale(.27)" fill="url(#heartPink)"/>
+    <use href="#heart" transform="translate(336 168) rotate(20) scale(.45)" fill="url(#heartRed)"/>
+    <use href="#heart" transform="translate(350 274) rotate(16) scale(.58)" fill="url(#heartRed)"/>
+    <use href="#heart" transform="translate(361 117) rotate(-12) scale(.24)" fill="url(#heartPeach)"/>
+    <use href="#heart" transform="translate(386 231) rotate(-18) scale(.48)" fill="url(#heartPink)"/>
+    <use href="#heart" transform="translate(395 174) rotate(22) scale(.28)" fill="url(#heartRed)"/>
+    <use href="#heart" transform="translate(414 307) rotate(16) scale(.44)" fill="url(#heartRed)"/>
+    <use href="#heart" transform="translate(431 179) rotate(-24) scale(.36)" fill="url(#heartRed)"/>
+    <use href="#heart" transform="translate(446 237) rotate(10) scale(.27)" fill="url(#heartRed)"/>
+    <use href="#heart" transform="translate(466 289) rotate(-28) scale(.24)" fill="url(#heartRed)"/>
+    <use href="#heart" transform="translate(24 282) rotate(-12) scale(.2)" fill="url(#heartRed)"/>
+    <use href="#heart" transform="translate(41 176) rotate(22) scale(.18)" fill="url(#heartRed)"/>
+    <use href="#heart" transform="translate(70 258) rotate(-28) scale(.23)" fill="url(#heartRed)"/>
+    <use href="#heart" transform="translate(88 342) rotate(14) scale(.25)" fill="url(#heartPink)"/>
+    <use href="#heart" transform="translate(111 205) rotate(-10) scale(.26)" fill="url(#heartRed)"/>
+    <use href="#heart" transform="translate(126 145) rotate(25) scale(.2)" fill="url(#heartPeach)"/>
+    <use href="#heart" transform="translate(144 292) rotate(-18) scale(.31)" fill="url(#heartRed)"/>
+    <use href="#heart" transform="translate(161 84) rotate(-6) scale(.19)" fill="url(#heartRed)"/>
+    <use href="#heart" transform="translate(182 223) rotate(28) scale(.24)" fill="url(#heartRed)"/>
+    <use href="#heart" transform="translate(199 318) rotate(-22) scale(.33)" fill="url(#heartRed)"/>
+    <use href="#heart" transform="translate(219 124) rotate(15) scale(.22)" fill="url(#heartPink)"/>
+    <use href="#heart" transform="translate(232 231) rotate(-8) scale(.25)" fill="url(#heartRed)"/>
+    <use href="#heart" transform="translate(258 345) rotate(18) scale(.28)" fill="url(#heartRed)"/>
+    <use href="#heart" transform="translate(279 187) rotate(-24) scale(.3)" fill="url(#heartRed)"/>
+    <use href="#heart" transform="translate(304 274) rotate(12) scale(.26)" fill="url(#heartPink)"/>
+    <use href="#heart" transform="translate(326 102) rotate(26) scale(.19)" fill="url(#heartRed)"/>
+    <use href="#heart" transform="translate(339 332) rotate(-10) scale(.32)" fill="url(#heartRed)"/>
+    <use href="#heart" transform="translate(366 202) rotate(18) scale(.3)" fill="url(#heartRed)"/>
+    <use href="#heart" transform="translate(390 286) rotate(-16) scale(.34)" fill="url(#heartRed)"/>
+    <use href="#heart" transform="translate(416 142) rotate(20) scale(.22)" fill="url(#heartPeach)"/>
+    <use href="#heart" transform="translate(430 253) rotate(-8) scale(.29)" fill="url(#heartPink)"/>
+    <use href="#heart" transform="translate(454 326) rotate(24) scale(.26)" fill="url(#heartRed)"/>
+    <use href="#heart" transform="translate(28 211) rotate(8) scale(.16)" fill="url(#heartRed)"/>
+    <use href="#heart" transform="translate(45 137) rotate(-14) scale(.18)" fill="url(#heartPink)"/>
+    <use href="#heart" transform="translate(58 329) rotate(22) scale(.2)" fill="url(#heartRed)"/>
+    <use href="#heart" transform="translate(78 91) rotate(-24) scale(.16)" fill="url(#heartRed)"/>
+    <use href="#heart" transform="translate(93 238) rotate(30) scale(.18)" fill="url(#heartPeach)"/>
+    <use href="#heart" transform="translate(107 291) rotate(-8) scale(.22)" fill="url(#heartRed)"/>
+    <use href="#heart" transform="translate(124 178) rotate(16) scale(.18)" fill="url(#heartPink)"/>
+    <use href="#heart" transform="translate(139 335) rotate(-20) scale(.19)" fill="url(#heartRed)"/>
+    <use href="#heart" transform="translate(156 139) rotate(10) scale(.16)" fill="url(#heartRed)"/>
+    <use href="#heart" transform="translate(174 274) rotate(-28) scale(.21)" fill="url(#heartRed)"/>
+    <use href="#heart" transform="translate(187 372) rotate(18) scale(.18)" fill="url(#heartPink)"/>
+    <use href="#heart" transform="translate(206 93) rotate(-18) scale(.16)" fill="url(#heartRed)"/>
+    <use href="#heart" transform="translate(218 181) rotate(14) scale(.21)" fill="url(#heartPeach)"/>
+    <use href="#heart" transform="translate(236 279) rotate(-16) scale(.19)" fill="url(#heartRed)"/>
+    <use href="#heart" transform="translate(252 135) rotate(28) scale(.17)" fill="url(#heartRed)"/>
+    <use href="#heart" transform="translate(267 218) rotate(-10) scale(.22)" fill="url(#heartPink)"/>
+    <use href="#heart" transform="translate(284 365) rotate(8) scale(.18)" fill="url(#heartRed)"/>
+    <use href="#heart" transform="translate(299 168) rotate(-24) scale(.18)" fill="url(#heartRed)"/>
+    <use href="#heart" transform="translate(315 316) rotate(22) scale(.21)" fill="url(#heartPeach)"/>
+    <use href="#heart" transform="translate(335 236) rotate(-15) scale(.18)" fill="url(#heartRed)"/>
+    <use href="#heart" transform="translate(352 146) rotate(12) scale(.16)" fill="url(#heartPink)"/>
+    <use href="#heart" transform="translate(371 333) rotate(-20) scale(.2)" fill="url(#heartRed)"/>
+    <use href="#heart" transform="translate(386 125) rotate(18) scale(.17)" fill="url(#heartRed)"/>
+    <use href="#heart" transform="translate(405 219) rotate(-8) scale(.21)" fill="url(#heartPeach)"/>
+    <use href="#heart" transform="translate(424 354) rotate(24) scale(.18)" fill="url(#heartPink)"/>
+    <use href="#heart" transform="translate(441 203) rotate(14) scale(.16)" fill="url(#heartRed)"/>
+    <use href="#heart" transform="translate(462 259) rotate(-22) scale(.2)" fill="url(#heartRed)"/>
+    <use href="#heart" transform="translate(481 312) rotate(16) scale(.17)" fill="url(#heartPink)"/>
+  </g>
+
+  <g id="heart-stream" filter="url(#shadow)">
+    <use href="#heart" transform="translate(412 260) rotate(20) scale(.34)" fill="url(#heartRed)"/>
+    <use href="#heart" transform="translate(426 219) rotate(-12) scale(.2)" fill="url(#heartRed)"/>
+    <use href="#heart" transform="translate(450 292) rotate(-9) scale(.5)" fill="url(#heartRed)"/>
+    <use href="#heart" transform="translate(489 247) rotate(17) scale(.28)" fill="url(#heartRed)"/>
+    <use href="#heart" transform="translate(505 308) rotate(24) scale(.22)" fill="url(#heartRed)"/>
+    <use href="#heart" transform="translate(528 289) rotate(-18) scale(.43)" fill="url(#heartPink)"/>
+    <use href="#heart" transform="translate(570 254) rotate(12) scale(.32)" fill="url(#heartRed)"/>
+    <use href="#heart" transform="translate(584 318) rotate(-15) scale(.24)" fill="url(#heartPeach)"/>
+    <use href="#heart" transform="translate(610 278) rotate(-24) scale(.56)" fill="url(#heartRed)"/>
+    <use href="#heart" transform="translate(632 228) rotate(19) scale(.2)" fill="url(#heartRed)"/>
+    <use href="#heart" transform="translate(655 232) rotate(18) scale(.3)" fill="url(#heartRed)"/>
+    <use href="#heart" transform="translate(692 263) rotate(-12) scale(.42)" fill="url(#heartRed)"/>
+    <use href="#heart" transform="translate(712 210) rotate(26) scale(.22)" fill="url(#heartPink)"/>
+    <use href="#heart" transform="translate(735 205) rotate(11) scale(.27)" fill="url(#heartRed)"/>
+    <use href="#heart" transform="translate(746 296) rotate(-18) scale(.26)" fill="url(#heartRed)"/>
+    <use href="#heart" transform="translate(778 226) rotate(-20) scale(.38)" fill="url(#heartRed)"/>
+    <use href="#heart" transform="translate(818 175) rotate(25) scale(.24)" fill="url(#heartPink)"/>
+    <use href="#heart" transform="translate(826 248) rotate(8) scale(.22)" fill="url(#heartRed)"/>
+    <use href="#heart" transform="translate(850 193) rotate(-12) scale(.44)" fill="url(#heartRed)"/>
+    <use href="#heart" transform="translate(872 139) rotate(18) scale(.2)" fill="url(#heartRed)"/>
+    <use href="#heart" transform="translate(893 143) rotate(18) scale(.31)" fill="url(#heartRed)"/>
+    <use href="#heart" transform="translate(936 162) rotate(-18) scale(.5)" fill="url(#heartRed)"/>
+    <use href="#heart" transform="translate(956 221) rotate(22) scale(.25)" fill="url(#heartPink)"/>
+    <use href="#heart" transform="translate(982 108) rotate(19) scale(.25)" fill="url(#heartPink)"/>
+    <use href="#heart" transform="translate(996 174) rotate(-10) scale(.23)" fill="url(#heartRed)"/>
+    <use href="#heart" transform="translate(1015 131) rotate(-15) scale(.42)" fill="url(#heartRed)"/>
+    <use href="#heart" transform="translate(1060 84) rotate(21) scale(.3)" fill="url(#heartPeach)"/>
+    <use href="#heart" transform="translate(1074 153) rotate(16) scale(.22)" fill="url(#heartRed)"/>
+    <use href="#heart" transform="translate(1100 118) rotate(-20) scale(.48)" fill="url(#heartRed)"/>
+    <use href="#heart" transform="translate(1132 77) rotate(14) scale(.19)" fill="url(#heartPink)"/>
+    <use href="#heart" transform="translate(438 255) rotate(-21) scale(.2)" fill="url(#heartRed)"/>
+    <use href="#heart" transform="translate(472 235) rotate(16) scale(.24)" fill="url(#heartRed)"/>
+    <use href="#heart" transform="translate(512 262) rotate(-12) scale(.2)" fill="url(#heartRed)"/>
+    <use href="#heart" transform="translate(548 226) rotate(26) scale(.26)" fill="url(#heartRed)"/>
+    <use href="#heart" transform="translate(594 277) rotate(11) scale(.22)" fill="url(#heartPink)"/>
+    <use href="#heart" transform="translate(640 300) rotate(-24) scale(.24)" fill="url(#heartRed)"/>
+    <use href="#heart" transform="translate(678 225) rotate(21) scale(.21)" fill="url(#heartRed)"/>
+    <use href="#heart" transform="translate(726 247) rotate(-13) scale(.29)" fill="url(#heartRed)"/>
+    <use href="#heart" transform="translate(766 182) rotate(12) scale(.18)" fill="url(#heartPeach)"/>
+    <use href="#heart" transform="translate(806 214) rotate(-22) scale(.31)" fill="url(#heartRed)"/>
+    <use href="#heart" transform="translate(865 261) rotate(18) scale(.25)" fill="url(#heartPink)"/>
+    <use href="#heart" transform="translate(910 197) rotate(-15) scale(.22)" fill="url(#heartRed)"/>
+    <use href="#heart" transform="translate(948 119) rotate(19) scale(.19)" fill="url(#heartRed)"/>
+    <use href="#heart" transform="translate(1004 84) rotate(-20) scale(.18)" fill="url(#heartRed)"/>
+    <use href="#heart" transform="translate(1044 189) rotate(15) scale(.25)" fill="url(#heartRed)"/>
+    <use href="#heart" transform="translate(1092 58) rotate(-9) scale(.17)" fill="url(#heartPeach)"/>
+    <use href="#heart" transform="translate(1146 134) rotate(23) scale(.22)" fill="url(#heartRed)"/>
+  </g>
+
+  <g opacity="0.95">
+    <use href="#heart" transform="translate(40 360) rotate(18) scale(.25)" fill="url(#heartPink)"/>
+    <use href="#heart" transform="translate(126 386) rotate(-12) scale(.22)" fill="url(#heartRed)"/>
+    <use href="#heart" transform="translate(321 365) rotate(14) scale(.28)" fill="url(#heartPink)"/>
+    <use href="#heart" transform="translate(510 352) rotate(-15) scale(.24)" fill="url(#heartRed)"/>
+    <use href="#heart" transform="translate(780 315) rotate(12) scale(.26)" fill="url(#heartPink)"/>
+    <use href="#heart" transform="translate(1024 246) rotate(-18) scale(.24)" fill="url(#heartPink)"/>
+  </g>
+</svg>
